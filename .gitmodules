@@ -1,0 +1,12 @@
+[submodule "lib1"]
+	path = lib1
+	url = https://github.com/Tanoemon/lib1
+[submodule "lib2"]
+	path = lib2
+	url = https://github.com/Tanoemon/lib2
+[submodule "lib3"]
+	path = lib3
+	url = https://github.com/Tanoemon/lib3
+[submodule "lib4"]
+	path = lib4
+	url = https://github.com/Tanoemon/lib4
